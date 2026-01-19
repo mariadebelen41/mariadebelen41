@@ -1,16 +1,13 @@
-## Hi there 👋
+## María Belén — Geocientífica | Evaluación de salidas de IA (QA)
 
-<!--
-**mariadebelen41/mariadebelen41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**EN:** Geoscientist transitioning into AI data evaluation and QA, focused on accuracy, relevance, and consistency.  
+**ES:** Geocientífica en transición hacia evaluación de salidas de IA y QA, con foco en precisión, relevancia y consistencia.
 
-Here are some ideas to get you started:
+- 🌍 Mendoza, Argentina
+- 🗣️ Español (nativo) | Inglés (B1)
+- 🎯 QA y evaluación de salidas de IA + cumplimiento de guías
+- ⏱️ Disponibilidad: 10–20 h/semana (remoto)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**EN:** Interested in geoscience-related projects, technical content evaluation, and applied AI.  
+**ES:** Interesada en proyectos vinculados a geociencias, evaluación de contenido técnico e IA aplicada.
+
